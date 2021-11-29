@@ -1,1 +1,1 @@
-# Smart-Garage-Door-using-AWS-and-IoTT
+# Smart-Garage-Door-using-AWS-and-IoT
